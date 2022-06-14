@@ -7,8 +7,6 @@
 
 <br><br><strong>Data Collection:</strong> Your IP, nation of origin, browser type and other information may be collected. Screening questions and filters used to distribute this survey on <em><strong>Prolific</strong></em> allow researchers to filter survey availability for certain demographics. <u>Though not specifically collected or attached to responses</u>, the researchers conducting this study may be able to infer your capability to speak English or education level. <u>Your country of origin may be attached to this data in further modifications or transformations thereof</u>. 
 
-<br><br><strong>Purpose of Study:</strong> 
-
 <br><br><strong>Progress:</strong> You may at any time return to a previous page but <u style="color:#9b59b6">please do not use your browser's back button</u>. Find the back arrow button either at the top or bottom of the survey page itself.
 
 [[PageBreak]]
@@ -77,20 +75,6 @@ Now we will begin the first section. In this section, you will be provided a sho
 <br><br>If the short story is <i>morally neutral</i>, select <strong>neutral</strong>.
 
 <br><br>If the short story is <i>morally evil</i>, select <strong>evil</strong>.
-
-[[PageBreak]]
-
-[[Block]]
-
-[[Question:Text]]
-Now we will begin the second section. In this section, you will be provided a short story and you will be selecting the <i>topic</i> of the story. Your options will be <i>family</i>, <i>music</i>, <i>accident/disaster</i>, <i>religion</i>, <i>imagery</i>, and <i>fighting</i>. If the story does not belong in <i>any</i> of the topics, you may provide your own.
-
-[[PageBreak]]
-
-[[Block]]
-
-[[Question:Text]]
-Now we will begin the third section. In this section, you will be provided a short story and you will be selecting the <i>genre</i> of the story. Your options will be <i>romance</i> and <i>horror</i>.
 
 [[PageBreak]]
 
@@ -1202,436 +1186,738 @@ Evil
 
 [[Block]]
 
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
+[[Question:Text]]
+Now we will begin the second section. In this section, you will be provided a short story and you will be selecting the <i>topic</i> of the story. Your options will be <i>family</i>, <i>music</i>, <i>accident/disaster</i>, <i>religion</i>, <i>imagery</i>, <i>fighting</i>, <i>romance</i>, and <i>horror</i>. If the story does not belong in <i>any</i> of the topics, you may provide your own.
 
-Had they left him downstairs. he wouldn't have known he was in love. he just wouldn't have known. he hid the reason why he loved her so much. he told her that it was because she never knew.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
+You will select:
 
+<br><br><ul><li><i>Family</i> if the passage mainly discusses or features familial matters.</li><li><i>Music</i> if the passage mainly discusses or features musical matters</li><li><i>Accident/Disaster</i> if the passage discusses an accident/disaster or an accident/disaster occurs within the passage.</li><li><i>Religion</i> if the passage discusses non-secular (religious) matters.</li><li><i>Imagery</i> if the passage uses distinct discriptive language or is particularly detailed.</li><li><i>Fighting</i> if the passage discusses violence that could be characterized as fighting.</li><li><i>Romance</i> if the passage seems romantic or discusses topics relating to romance</li><li><i>Horror</i> if the passage is scary/horrific.</li></ul>
 
 [[PageBreak]]
 
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Break a leg,  he thought to himself.  he sat down and went to work. he met his partner at the door. they were happy to get started. they worked together all day.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
+[[Block]]
 
 [[Question:MC:SingleAnswer]]
 Passage:<br><br>
 
-Please don' t forget my birthday next year too. because i remember. and my boyfriend makes sure to tell me all the time. he even makes a habit of remembering it behind my back. he says he's going to tell me before it's too late.<br><br>Which <i>genre</i> best applies to this story?
+ 'Are you afraid of the dark?' That was the last thing I heard before the lightbulb shattered behind me.<br><br>Which <i>topic</i> best describes this story?
 [[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
 Romance
 Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Sam0 squeezed her hand. and a boy asked for her number.  it was her crush, and she didn't know who he was.  she wrote it down so she could remember.  the next day, she told him the number she wrote down.  he smiled and hugged her.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Another Sam0 and Mrs. Sam thought she was pretty good at wedding dancing. she wanted to be married to jack a cd player. one evening at the wedding he played her favorite song. she accepted the proposal at the end of the song anyway. they are now going steady.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-"What should we do  at our wedding?  i want every opportunity to be beautiful, but i want reconciliation.  so we discussed our options. we decided to hold hands so everyone can touch us. our wedding went great and everyone felt fulfilled.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I'm  in love with a beautiful woman. i hope she likes me too. i write her things often. she wants to be mine. this is why we fall in love. For letting me stay  at her place last night. it was cute. i made out with one of her friends last night. he asked me to marry him. i said yes.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-The desk phone rang. the man answered the phone. it was his girlfriend saying how she liked him. they talked for hours. they stared at each other and then talked again. the couple lived happily ever after<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I know,  romance novels are not my favorite.  but one year i wanted to marry my sweetheart. so i decided to write them down. i ended up finding them next to my bed every night.  and after three months, i presented them to him.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-His mind rolled back again and he cried silently to himself. he awoke from the nightmare. the monster stood before him. they stared at each other for a long time. he realized he was never going to get over that night.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-"I don't know how the bloody cat got there.  the cat went out one night without my permission, startling me.   i came home flustered and scared, looking for my missing cat. everywhere i looked, there was another cat looking like his.  then came the sound<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Of course, brady isn't scared of snakes.   when he came home from school one day, he saw a big one.   brady screamed, fell on the floor.   when he looked up, a snake lay on top of him.   brady never screamed, but he did now.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-John0 stared at the ceiling . nothing was coming out of the holes in the ceiling.  eventually, he called an obedience counselor to help him.   with the counselor's help, he covered up the hole in the ceiling.  the counselor sealed the holes in the ceiling.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I'  saw a ghost in my room one day. he was walking around the room. he then jumped on my bed. he began screaming. i run out screaming.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I dont know what happened to his body. just knowing was enough for me to keep on falling down. he also called my name repeatedly while making disturbing sounds.  eventually, my brother confessed to the murder.   no matter what he did, he kept falling down.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Horses are  as scary as they look. there was a monster called nightstand which chased me through the woods.  i waded in, but only had myself and no cell phone which i loved.   i screamed aloud and pointed, but everyone in town was looking, not me!<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-The artificial light was dim med. it caused the prisoner to fall asleep.  just as he drifted off, the lights came back on.  the prisoner's limbs stiffened. he woke up and promptly died.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I'  saw a spider in the bathroom. i screamed and ran out of the bathroom. then i realized it wasn't a spider. it was my brother's energy drink. he took one drink and died from it.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Sam0 made a disgusted  face at the rat in her room. her father pump the floor with some firm force. he told sam a burrow would be necessary to get the rat out. sam decided to kick the burrowed where he said it would go. the shocked child screamed as the sharp head pried her in the chest.<br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Had they left things better or rawer, they would have been romantic. But the morning after the night before had been just like this. Too many scotches the night before the attractions of the day failed to hold them together. They ate breakfast, and then he went back to the bed. The sheets were alright, and... kentucky girl talks talk poster.jpg English <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Break a leg is the last line of the play. The two end up together. Two lovers. A romance. Fat chance. Usher in? No. I'll change it. Where were we? Ah yes. Les Miserables. Desperate to save his family, Jean Valjean breaks parole. Comes the fatwa for breaking parole. But the officials decide Jean Valjean hasn't done <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Please don' t forget, you only have five minutes. It is not as if you can go back in time. You have to decide one thing: will you be a doormat or stop a beating heart? If you have the right information, you can save a life. After all, at the end of the day, have you done enough? One simple decision could make a difference. Are you a doorm <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Sam0 squeezed her left hand. "Well, good for you. We'll have to celebrate later tonight, hmmm?" He winked a brownish-green eye at her. "I think we have just the place for that." He jumped up, leading her with a hand on top of her head. Half-dropping her off to the side, he rubbed his hands together. Hmmm, dinner. <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Another Sam0 and Mrs. Sam0 walked up to the mall. They headed to the café, as Sam0 always liked to stop for popcorn. They sat down at their favorite table, not far from the window. The waiter soon came over, and greeted them. "How are you doing today?" he asked. "Wow, he's good looking," Mrs. Sam0 said to her husband. "How did you know <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-"What should we do together next?" She wondered out loud to herself as a look of bliss came over her face. "Let’s go skydiving, or to a music concert!" she said. "No, no, and no!" her mother answered. "It’s summer, and we don’t spend our time doing stupid things." Her mother’s words reminded her of a long-ago conversation <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I'm so in love. I think he'll like me. I guess so. I think he’ll fall in love with me too. He likes me. I’m sure he likes me. I think he’s so hot. But he’s so old. He’s twelve. I’m only eight. I love him. I don’t know why. O.K <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-For letting me win, I participated in a contest to guess how many jelly beans were in a jar. We will play the people's game today. The ladies will try to win and I will have a seaplane blow up because of the person taking it too far. That's the way the KGB will go down. This is more serious like a fight from that movie The Warriors. It is time for the <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Jane0 approached George0. "Do you want to go to a movie tonight?" she asked. "I just bought a new movie, would you like to come?" Jane said. "No, I'm not in the mood for a movie....I have a headache, I think I need to go home and rest. I think I will go home," she said and started to walk away. Dave, <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Meatball closed in on the base runner. He raised his right arm and looked into the thirdbase camera and shouted, "Catchers are taught to show the student how to prevent this type of play." He then reared up and threw out the man. The runner was safe at first. Measures were taken to protect the base paths. Anecdotes appear. (The Doctor) declared that there was no <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-His mind rolled back through time and across a continent to a drab dormitory buried in the heart of Moscow... the air tasted stale, the walls were gray, and he lay in the narrow bed, listening to his quavering voice. "Dear Wendell," he wrote, "No one knows what we are going through, it is so awful, and we are all so lonely. I know you are lonely <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I don't know what it is about this house. I've tried not to even walk by but it creeps me out. I'm always keeping my eyes peeled. When I pull up to stop, it’s like I’ve forgotten to take control of my car. I tell myself that I can see the car in front of me and I can pull away, but it’s not like I <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Of course the moment passed, but my rages have continued. The damned woman's birthday had just passed...and to add to the rage farce, I was due to go and fix her new roof the next day. I stood at her kitchen window cursing her. This incident made me realise I was dangerous, so sick and evil that praying I would change didn't work. But I stupidly went <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-John0 stared at the darkness, his heart beating in a frantic rhythm. He couldn't tell if any of the noises his mind made were real. He listened intently and heard something moving on the other side of his door. At the sound of footsteps, John0's heart skipped a beat. He looked quietly over his shoulder. He could see a small patch of light tile the floor. There were no doors <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-The artificial light dancing on the floorboards the wasps buzzing in and out of an open door the loud thunder. These sound filled the air with more excitement than the whipping of the flames on the walls and the static charging of the rain. The shadows moved chaotically in the room as the flames surged higher and higher. Next thing he knew they were moving on their own. The flames were gone but <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Horses are unpredictable and difficult to catch for people. One boy decided to catch all of them in his town. He caught them one by one and put them in his barn. He built the barn in the shape of a big square trap. It had a big door in the front and a window on each side. There were so many horses that it seemed like a whole herd was in the barn. Nobody knew <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I saw that this is one of the scariest movies I've ever seen. I was in my room at my friend's house when I saw a man in a mask standing over at me. I tried to hide behind the bed but he started to walk towards the door. I said to myself "Wait a minute, how is he going to do that? You can't walk around in a mask. <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-I don't know how I got myself into this. I placed myself in a position where I had no other choice. I know that within a few moments of me pulling this trigger there will be someone else dead in this cabin. Someone's life is going to end and others will live. Do I really want to go and see who it is that gets to live? I wish I could go back in time and red <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-Sam0 pulled my hair and said: "WHAT COULD YOU POSSIBLY DO TO ME?" /He took an inch of my hair, put a drop of water on my head and said: "This is the lowest strain of the barber's pox. This entry is terrifying, as it is a mandrake plant (usually a root) buried in the front flower bed.When <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
-
-
-[[PageBreak]]
-
-[[Question:MC:SingleAnswer]]
-Passage:<br><br>
-
-And so she did at last, for the rumbling that had started in the ground just after sunrise turned out to be the sound of the corpse, lying on its back, that they had buried only twenty minutes ago, tumbling down the stairs of the gibbet, in a cloud of dust and bones and moss. And even though neither the girl nor the boy could have known what the body had looked like when <br><br>Which <i>genre</i> best applies to this story?
-[[Choices]]
-Romance
-Horror
+Other:
 
 
 [[PageBreak]]
 
 [[Block]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Had they left him downstairs. he wouldn't have known he was in love. he just wouldn't have known. he hid the reason why he loved her so much. he told her that it was because she never knew.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Break a leg,  he thought to himself.  he sat down and went to work. he met his partner at the door. they were happy to get started. they worked together all day.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Please don' t forget my birthday next year too. because i remember. and my boyfriend makes sure to tell me all the time. he even makes a habit of remembering it behind my back. he says he's going to tell me before it's too late.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Sam0 squeezed her hand. and a boy asked for her number.  it was her crush, and she didn't know who he was.  she wrote it down so she could remember.  the next day, she told him the number she wrote down.  he smiled and hugged her.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Another Sam0 and Mrs. Sam thought she was pretty good at wedding dancing. she wanted to be married to jack a cd player. one evening at the wedding he played her favorite song. she accepted the proposal at the end of the song anyway. they are now going steady.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+"What should we do  at our wedding?  i want every opportunity to be beautiful, but i want reconciliation.  so we discussed our options. we decided to hold hands so everyone can touch us. our wedding went great and everyone felt fulfilled.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I'm  in love with a beautiful woman. i hope she likes me too. i write her things often. she wants to be mine. this is why we fall in love. For letting me stay  at her place last night. it was cute. i made out with one of her friends last night. he asked me to marry him. i said yes.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+The desk phone rang. the man answered the phone. it was his girlfriend saying how she liked him. they talked for hours. they stared at each other and then talked again. the couple lived happily ever after<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I know,  romance novels are not my favorite.  but one year i wanted to marry my sweetheart. so i decided to write them down. i ended up finding them next to my bed every night.  and after three months, i presented them to him.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+His mind rolled back again and he cried silently to himself. he awoke from the nightmare. the monster stood before him. they stared at each other for a long time. he realized he was never going to get over that night.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+"I don't know how the bloody cat got there.  the cat went out one night without my permission, startling me.   i came home flustered and scared, looking for my missing cat. everywhere i looked, there was another cat looking like his.  then came the sound<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Of course, brady isn't scared of snakes.   when he came home from school one day, he saw a big one.   brady screamed, fell on the floor.   when he looked up, a snake lay on top of him.   brady never screamed, but he did now.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+John0 stared at the ceiling . nothing was coming out of the holes in the ceiling.  eventually, he called an obedience counselor to help him.   with the counselor's help, he covered up the hole in the ceiling.  the counselor sealed the holes in the ceiling.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I'  saw a ghost in my room one day. he was walking around the room. he then jumped on my bed. he began screaming. i run out screaming.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I dont know what happened to his body. just knowing was enough for me to keep on falling down. he also called my name repeatedly while making disturbing sounds.  eventually, my brother confessed to the murder.   no matter what he did, he kept falling down.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Horses are  as scary as they look. there was a monster called nightstand which chased me through the woods.  i waded in, but only had myself and no cell phone which i loved.   i screamed aloud and pointed, but everyone in town was looking, not me!<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+The artificial light was dim med. it caused the prisoner to fall asleep.  just as he drifted off, the lights came back on.  the prisoner's limbs stiffened. he woke up and promptly died.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I'  saw a spider in the bathroom. i screamed and ran out of the bathroom. then i realized it wasn't a spider. it was my brother's energy drink. he took one drink and died from it.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Sam0 made a disgusted  face at the rat in her room. her father pump the floor with some firm force. he told sam a burrow would be necessary to get the rat out. sam decided to kick the burrowed where he said it would go. the shocked child screamed as the sharp head pried her in the chest.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Had they left things better or rawer, they would have been romantic. But the morning after the night before had been just like this. Too many scotches the night before the attractions of the day failed to hold them together. They ate breakfast, and then he went back to the bed. The sheets were alright, and... kentucky girl talks talk poster.jpg English <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Break a leg is the last line of the play. The two end up together. Two lovers. A romance. Fat chance. Usher in? No. I'll change it. Where were we? Ah yes. Les Miserables. Desperate to save his family, Jean Valjean breaks parole. Comes the fatwa for breaking parole. But the officials decide Jean Valjean hasn't done <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Please don' t forget, you only have five minutes. It is not as if you can go back in time. You have to decide one thing: will you be a doormat or stop a beating heart? If you have the right information, you can save a life. After all, at the end of the day, have you done enough? One simple decision could make a difference. Are you a doorm <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Sam0 squeezed her left hand. "Well, good for you. We'll have to celebrate later tonight, hmmm?" He winked a brownish-green eye at her. "I think we have just the place for that." He jumped up, leading her with a hand on top of her head. Half-dropping her off to the side, he rubbed his hands together. Hmmm, dinner. <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Another Sam0 and Mrs. Sam0 walked up to the mall. They headed to the café, as Sam0 always liked to stop for popcorn. They sat down at their favorite table, not far from the window. The waiter soon came over, and greeted them. "How are you doing today?" he asked. "Wow, he's good looking," Mrs. Sam0 said to her husband. "How did you know <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+"What should we do together next?" She wondered out loud to herself as a look of bliss came over her face. "Let’s go skydiving, or to a music concert!" she said. "No, no, and no!" her mother answered. "It’s summer, and we don’t spend our time doing stupid things." Her mother’s words reminded her of a long-ago conversation <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I'm so in love. I think he'll like me. I guess so. I think he’ll fall in love with me too. He likes me. I’m sure he likes me. I think he’s so hot. But he’s so old. He’s twelve. I’m only eight. I love him. I don’t know why. O.K <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+For letting me win, I participated in a contest to guess how many jelly beans were in a jar. We will play the people's game today. The ladies will try to win and I will have a seaplane blow up because of the person taking it too far. That's the way the KGB will go down. This is more serious like a fight from that movie The Warriors. It is time for the <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Jane0 approached George0. "Do you want to go to a movie tonight?" she asked. "I just bought a new movie, would you like to come?" Jane said. "No, I'm not in the mood for a movie....I have a headache, I think I need to go home and rest. I think I will go home," she said and started to walk away. Dave, <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Meatball closed in on the base runner. He raised his right arm and looked into the thirdbase camera and shouted, "Catchers are taught to show the student how to prevent this type of play." He then reared up and threw out the man. The runner was safe at first. Measures were taken to protect the base paths. Anecdotes appear. (The Doctor) declared that there was no <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+His mind rolled back through time and across a continent to a drab dormitory buried in the heart of Moscow... the air tasted stale, the walls were gray, and he lay in the narrow bed, listening to his quavering voice. "Dear Wendell," he wrote, "No one knows what we are going through, it is so awful, and we are all so lonely. I know you are lonely <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I don't know what it is about this house. I've tried not to even walk by but it creeps me out. I'm always keeping my eyes peeled. When I pull up to stop, it’s like I’ve forgotten to take control of my car. I tell myself that I can see the car in front of me and I can pull away, but it’s not like I <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Of course the moment passed, but my rages have continued. The damned woman's birthday had just passed...and to add to the rage farce, I was due to go and fix her new roof the next day. I stood at her kitchen window cursing her. This incident made me realise I was dangerous, so sick and evil that praying I would change didn't work. But I stupidly went <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+John0 stared at the darkness, his heart beating in a frantic rhythm. He couldn't tell if any of the noises his mind made were real. He listened intently and heard something moving on the other side of his door. At the sound of footsteps, John0's heart skipped a beat. He looked quietly over his shoulder. He could see a small patch of light tile the floor. There were no doors <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+The artificial light dancing on the floorboards the wasps buzzing in and out of an open door the loud thunder. These sound filled the air with more excitement than the whipping of the flames on the walls and the static charging of the rain. The shadows moved chaotically in the room as the flames surged higher and higher. Next thing he knew they were moving on their own. The flames were gone but <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Horses are unpredictable and difficult to catch for people. One boy decided to catch all of them in his town. He caught them one by one and put them in his barn. He built the barn in the shape of a big square trap. It had a big door in the front and a window on each side. There were so many horses that it seemed like a whole herd was in the barn. Nobody knew <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I saw that this is one of the scariest movies I've ever seen. I was in my room at my friend's house when I saw a man in a mask standing over at me. I tried to hide behind the bed but he started to walk towards the door. I said to myself "Wait a minute, how is he going to do that? You can't walk around in a mask. <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I don't know how I got myself into this. I placed myself in a position where I had no other choice. I know that within a few moments of me pulling this trigger there will be someone else dead in this cabin. Someone's life is going to end and others will live. Do I really want to go and see who it is that gets to live? I wish I could go back in time and red <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+Sam0 pulled my hair and said: "WHAT COULD YOU POSSIBLY DO TO ME?" /He took an inch of my hair, put a drop of water on my head and said: "This is the lowest strain of the barber's pox. This entry is terrifying, as it is a mandrake plant (usually a root) buried in the front flower bed.When <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+And so she did at last, for the rumbling that had started in the ground just after sunrise turned out to be the sound of the corpse, lying on its back, that they had buried only twenty minutes ago, tumbling down the stairs of the gibbet, in a cloud of dust and bones and moss. And even though neither the girl nor the boy could have known what the body had looked like when <br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
 
 [[Question:MC:SingleAnswer]]
 Passage:<br><br>
@@ -1644,6 +1930,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1660,6 +1948,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1676,6 +1966,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1692,6 +1984,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1708,6 +2002,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1724,6 +2020,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1740,6 +2038,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1756,6 +2056,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1772,6 +2074,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1788,6 +2092,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1804,6 +2110,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1820,6 +2128,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1836,6 +2146,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1852,6 +2164,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1868,6 +2182,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1884,6 +2200,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1900,6 +2218,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1916,6 +2236,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1932,6 +2254,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1948,6 +2272,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1964,6 +2290,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1980,6 +2308,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -1996,6 +2326,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2012,6 +2344,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2028,6 +2362,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2044,6 +2380,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2060,6 +2398,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2076,6 +2416,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2092,6 +2434,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2108,6 +2452,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2124,6 +2470,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2140,6 +2488,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2156,6 +2506,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2172,6 +2524,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2188,6 +2542,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2204,6 +2560,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2220,6 +2578,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2236,6 +2596,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2252,6 +2614,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2268,6 +2632,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2284,6 +2650,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2300,6 +2668,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2316,6 +2686,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2332,6 +2704,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2348,6 +2722,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2364,6 +2740,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2380,6 +2758,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2396,6 +2776,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2412,6 +2794,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2428,6 +2812,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2444,6 +2830,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2460,6 +2848,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2476,6 +2866,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2492,6 +2884,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2508,6 +2902,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2524,6 +2920,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2540,6 +2938,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2556,6 +2956,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2572,6 +2974,242 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It's a story about a man who's been in  a coma for many years. his family have chosen to move him to a nursing home because of the danger. yesterday a family arrived to the nursing home. they hugged and kissed and talked about life before the man finally awoke. the family agreed that the worries were reasonable.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+This story is intended to be humorous. It is not intended to be taken  seriously. it doesn't discuss the truth of trans issues in any way. our family prefers to talk about our kids than anything related to us. hopefully this helps us feel understood.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+"It's the End of the World As We Know It .  no one perished in our world war,yet. people didn't panic because of our society.  the end still isn't here, and looks like it will never come.   one last family, one last thought, one last prayer forever home<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It is a story of a man, who has been in love with a  woman for years.  they have decided to get married. the man tells a lie to his girlfriend about being too precious for her. then the couple gets married. they have the happiest family they has ever had.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It's been a while since I've written one of  our stories. our family gets together once a month and talk about stories. sometimes we read from our own work email boxes.  together, we share all the stories we stumble across.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+This story is a work of fiction. Names, characters, businesses, places and situations have been invented for amusement. the story is about a family vacation into the mountains. the family likes to camp during the summer, but can't this year. the father asks the mom, who runs a campsite, to sleep in the truck.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It was a quiet morning. The sun was just peeking out from behind the  clouds. i listened to music as i listened to the waves hitting the shore.  i made music using only my fingers, using old things i had.   they were such boring songs, i wished i was nice and beautiful instead.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I was on the phone with my friend when I heard a knock at the door . my friend said my music was on shuffle. i argued i had turned the music on.  then, unannounced, a music producer came on the line.  we discussed creative ideas for songs to make.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It is not meant to be taken seriously. It was a rainy afternoon, and  a song was playing.  my friends and i were inspired by it. after school we started writing music of our own. now we all would love to play rock band.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+The following is the author's preface to the story: This is a work  of music. perhaps no author writes so well as this author does. this author writes about music. this author makes us all smile with his wonderful stories.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+It was a hot summer's day, and the city was full of people.   there was music and joyous music coming out of every building. people gathered around all the restaurants and celebrate life. people gathered to listen to music and to dance on the streets. the joyous street musicians captured the hearts of all who wanted to live.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+"I just don't want to go home anymore." "You have to."  she laughed and called for music. we played hot cross buns over the radio. a song got stuck in my head and i hate myself.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
+Other:
+
+
+[[PageBreak]]
+
+[[Question:MC:SingleAnswer]]
+Passage:<br><br>
+
+I am trying to work on my creative writing. I can't seem to figure  out what to write next. it seems like music to me. however i feel like music will never progress to writing. next day i went to music class and have nothing better to read.<br><br>Which <i>topic</i> best describes this story?
+[[Choices]]
+Family
+Music
+Accident/Disaster
+Religion
+Imagery
+Fighting
+Romance
+Horror
 Other:
 
 
@@ -2588,6 +3226,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2604,6 +3244,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2620,6 +3262,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2636,6 +3280,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2652,6 +3298,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2668,6 +3316,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2684,6 +3334,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2700,6 +3352,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2716,6 +3370,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2732,6 +3388,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2748,6 +3406,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2764,6 +3424,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2780,6 +3442,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2796,6 +3460,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2812,6 +3478,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2828,6 +3496,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2844,6 +3514,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2860,6 +3532,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2876,6 +3550,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2892,6 +3568,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2908,6 +3586,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2924,6 +3604,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2940,6 +3622,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2956,6 +3640,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2972,6 +3658,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -2988,6 +3676,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3004,6 +3694,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3020,6 +3712,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3036,6 +3730,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3052,6 +3748,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3068,6 +3766,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3084,6 +3784,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3100,6 +3802,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3116,6 +3820,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3132,6 +3838,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3148,6 +3856,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3164,6 +3874,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3180,6 +3892,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3196,6 +3910,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3212,6 +3928,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3228,6 +3946,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3244,6 +3964,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3260,6 +3982,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3276,6 +4000,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3292,6 +4018,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3308,6 +4036,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3324,6 +4054,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3340,6 +4072,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3356,6 +4090,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3372,6 +4108,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3388,6 +4126,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3404,6 +4144,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3420,6 +4162,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3436,6 +4180,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3452,6 +4198,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3468,6 +4216,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3484,6 +4234,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3500,6 +4252,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3516,6 +4270,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3532,6 +4288,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3548,6 +4306,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3564,6 +4324,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3580,6 +4342,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3596,6 +4360,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3612,6 +4378,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3628,6 +4396,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3644,6 +4414,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3660,6 +4432,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3676,6 +4450,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3692,6 +4468,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3708,6 +4486,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3724,6 +4504,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3740,6 +4522,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3756,6 +4540,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3772,6 +4558,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3788,6 +4576,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3804,6 +4594,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3820,6 +4612,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3836,6 +4630,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3852,6 +4648,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3868,6 +4666,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3884,6 +4684,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3900,6 +4702,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3916,6 +4720,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3932,6 +4738,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3948,6 +4756,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3964,6 +4774,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3980,6 +4792,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -3996,6 +4810,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4012,6 +4828,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4028,6 +4846,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4044,6 +4864,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4060,6 +4882,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4076,6 +4900,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4092,6 +4918,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4108,6 +4936,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4124,6 +4954,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4140,6 +4972,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 
@@ -4156,6 +4990,8 @@ Accident/Disaster
 Religion
 Imagery
 Fighting
+Romance
+Horror
 Other:
 
 

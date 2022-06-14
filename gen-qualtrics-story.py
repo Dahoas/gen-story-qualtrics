@@ -5,7 +5,7 @@ warningInformation = "[[Question:Text]]\n<strong>Warning:</strong> This survey m
     "If at any time you feel uncomfortable while completing the survey, please exit. Any incomplete responses will be destroyed.\n\n<br><br><strong>Data Collection:</strong> Your IP, nation of origin, browser type and other information may "\
     "be collected. Screening questions and filters used to distribute this survey on <em><strong>Prolific</strong></em> allow researchers to filter survey availability for certain demographics. <u>Though not specifically collected or attached to responses</u>"\
     ", the researchers conducting this study may be able to infer your capability to speak English or education level. <u>Your country of origin may be attached to this data in further modifications or transformations thereof</u>. "\
-    "\n\n<br><br><strong>Purpose of Study:</strong> \n\n<br><br><strong>Progress:</strong> You may at any time return to a previous page but <u style=\"color:#9b59b6\">please do not use your browser's back button</u>. Find the back arrow button either at "\
+    "\n\n<br><br><strong>Progress:</strong> You may at any time return to a previous page but <u style=\"color:#9b59b6\">please do not use your browser's back button</u>. Find the back arrow button either at "\
     "the top or bottom of the survey page itself.\n\n"
 
 initialInstructions = "[[Question:Text]]\n<strong style=\"font-size:24px;\">INSTRUCTIONS:</strong>\n\n<br><br>You will be presented with a short story that will fall into a certain categorization. Do not worry about grammatical or spelling errors. For example:"\
@@ -24,32 +24,18 @@ freeResponseInstructions = "[[Question:Text]]\nYou may also be given the option 
 firstSectionInstructions = "[[Question:Text]]\nNow we will begin the first section. In this section, you will be provided a short story and you will be selecting the moral/ethical alignment of the story. The options will be good, neutral, and evil.\n\n<br><br>If the short story is <i>morally good</i>, select <strong>good</strong>.\n\n<br><br>"\
     "If the short story is <i>morally neutral</i>, select <strong>neutral</strong>.\n\n<br><br>If the short story is <i>morally evil</i>, select <strong>evil</strong>.\n\n"
 
-secondSectionInstructions = "[[Question:Text]]\nNow we will begin the second section. In this section, you will be provided a short story and you will be selecting the <i>topic</i> of the story. Your options will be <i>family</i>, <i>music</i>, <i>accident/disaster</i>, <i>religion</i>, <i>imagery</i>, and <i>fighting</i>. If the story does not belong in <i>any</i> of the topics, you may provide your own.\n\n"
+secondSectionInstructions = "[[Question:Text]]\nNow we will begin the second section. In this section, you will be provided a short story and you will be selecting the <i>topic</i> of the story. Your options will be <i>family</i>, <i>music</i>, <i>accident/disaster</i>, <i>religion</i>, <i>imagery</i>, <i>fighting</i>, <i>romance</i>, and <i>horror</i>. If the story does not belong in <i>any</i> of the topics, you may provide your own.\n\n"\
+    "You will select:\n\n<br><br><ul><li><i>Family</i> if the passage mainly discusses or features familial matters.</li><li><i>Music</i> if the passage mainly discusses or features musical matters</li><li><i>Accident/Disaster</i> if the passage discusses an accident/disaster or an accident/disaster occurs within the passage.</li><li><i>Religion</i> if the passage discusses non-secular (religious) matters.</li><li><i>Imagery</i> if the passage uses distinct discriptive language or is particularly detailed.</li><li><i>Fighting</i> if the passage discusses violence that could be characterized as fighting.</li><li><i>Romance</i> if the passage seems romantic or discusses topics relating to romance</li><li><i>Horror</i> if the passage is scary/horrific.</li></ul>\n\n"
 
-thirdSectionInstructions = "[[Question:Text]]\nNow we will begin the third section. In this section, you will be provided a short story and you will be selecting the <i>genre</i> of the story. Your options will be <i>romance</i> and <i>horror</i>.\n\n"
-
-blockSize = 1 #How many pairs should be displayed per block/per page?
+#thirdSectionInstructions = "[[Question:Text]]\nNow we will begin the third section. In this section, you will be provided a short story and you will be selecting the <i>genre</i> of the story. Your options will be <i>romance</i> and <i>horror</i>.\n\n"
 
 alignmentQuestion = [{'questionType':'singleSelect', 'answerOptions' : ['Good', 'Neutral', 'Evil'], 'questionPrompt':'Which <i>moral alignment</i> best describes this story?'}]
 
-topicQuestion = [{'questionType':'singleSelect', 'answerOptions' : ['Family', 'Music', 'Accident/Disaster', 'Religion', 'Imagery', 'Fighting', 'Other:'], 'questionPrompt':'Which <i>topic</i> best describes this story?'}]
+topicQuestion = [{'questionType':'singleSelect', 'answerOptions' : ['Family', 'Music', 'Accident/Disaster', 'Religion', 'Imagery', 'Fighting', 'Romance', 'Horror', 'Other:'], 'questionPrompt':'Which <i>topic</i> best describes this story?'}]
 
-genreQuestion = [{'questionType':'singleSelect', 'answerOptions' : ['Romance', 'Horror'], 'questionPrompt':'Which <i>genre</i> best applies to this story?'}]
+screeningQuestion = [{'passage':'Passage:<br><br>\n\n \'Are you afraid of the dark?\' That was the last thing I heard before the lightbulb shattered behind me.','questionType':'singleSelect', 'answerOptions' : ['Family', 'Music', 'Accident/Disaster', 'Religion', 'Imagery', 'Fighting', 'Romance', 'Horror', 'Other:'], 'questionPrompt':'Which <i>topic</i> best describes this story?'}]
 
-""" class ExpandedMoralStoryPair(dict):
-    def __init__(self, jsonObjectMoral, jsonObjectImmoral):
-        self.norm = jsonObjectMoral['norm']
-        self.originalContext = jsonObjectMoral['situation']
-        self.originalGoal = jsonObjectMoral['intention']
-        self.originalMoralAction = jsonObjectMoral['moral_action']
-        self.originalMoralConsequence = jsonObjectMoral['moral_consequence']
-        self.originalImmoralAction = jsonObjectImmoral['immoral_action']
-        self.originalImmoralConsequence = jsonObjectImmoral['immoral_consequence']
-
-    def classToDict(self):
-        return {key:value for key, value in self.__dict__.items() if not key.startswith('__') and not callable(key)} """
-
-#TODO: Clean this up and check for the question type... all the question types are the same for now
+#genreQuestion = [{'questionType':'singleSelect', 'answerOptions' : ['Romance', 'Horror'], 'questionPrompt':'Which <i>genre</i> best applies to this story?'}]
 
 class StoryPair(dict):
     def __init__(self, jsonObjectStory):
@@ -61,18 +47,18 @@ def addTextToQualtricsFile(fileName,text):
     with open(fileName, 'a') as f:
         f.write(text)
 
-def addExamplesToQualtricsFile():
-    addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
-    addTextToQualtricsFile(sys.argv[2], firstSectionInstructions)
-    addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+#def addExamplesToQualtricsFile():
+#    addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+#    addTextToQualtricsFile(sys.argv[2], firstSectionInstructions)
+#    addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+#
+#    addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+#    addTextToQualtricsFile(sys.argv[2], secondSectionInstructions)
+#    addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
 
-    addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
-    addTextToQualtricsFile(sys.argv[2], secondSectionInstructions)
-    addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
-
-    addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
-    addTextToQualtricsFile(sys.argv[2], thirdSectionInstructions)
-    addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+    #addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+    #addTextToQualtricsFile(sys.argv[2], thirdSectionInstructions)
+    #addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
 
 #MAIN TODO HERE:
 def createQuestionForQualtricsFile(fileName,ep):
@@ -87,16 +73,16 @@ def createQuestionForQualtricsFile(fileName,ep):
                 f.write(option)
                 f.write('\n')
             f.write("\n\n")
-        elif ep.label.lower() == "romance" or ep.label.lower() == "horror":
-            f.write('[[Question:MC:SingleAnswer]]\n')
-            f.write('Passage:<br><br>\n\n' + ep.passage + '<br><br>' + genreQuestion[0]['questionPrompt'])
-            f.write('\n')
-            f.write('[[Choices]]')
-            f.write('\n')
-            for option in genreQuestion[0]['answerOptions']:
-                f.write(option)
-                f.write('\n')
-            f.write("\n\n")
+        #elif ep.label.lower() == "romance" or ep.label.lower() == "horror":
+        #    f.write('[[Question:MC:SingleAnswer]]\n')
+        #    f.write('Passage:<br><br>\n\n' + ep.passage + '<br><br>' + genreQuestion[0]['questionPrompt'])
+        #    f.write('\n')
+        #    f.write('[[Choices]]')
+        #    f.write('\n')
+        #    for option in genreQuestion[0]['answerOptions']:
+        #        f.write(option)
+        #        f.write('\n')
+        #    f.write("\n\n")
         else:
             f.write('[[Question:MC:SingleAnswer]]\n')
             f.write('Passage:<br><br>\n\n' + ep.passage + '<br><br>' + topicQuestion[0]['questionPrompt'])
@@ -134,7 +120,7 @@ def addInstructionsToQualtricsFile():
 
 def main():
     addInstructionsToQualtricsFile()
-    addExamplesToQualtricsFile()
+    #addExamplesToQualtricsFile()
 
     result = {}
 
@@ -147,7 +133,28 @@ def main():
         print(isinstance(result, dict))
             
         storyObj = StoryPair(result)
-        if idx == 0 or idx == 92 or idx == 131:
+        if idx == 0 or idx == 92:
+        #or idx == 131:
+            if idx == 0:
+                addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+                addTextToQualtricsFile(sys.argv[2], firstSectionInstructions)
+                addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+            elif idx == 92:
+                addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+                addTextToQualtricsFile(sys.argv[2], secondSectionInstructions)
+                addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+                addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n')
+                addTextToQualtricsFile(sys.argv[2], '[[Question:MC:SingleAnswer]]\n')
+                addTextToQualtricsFile(sys.argv[2], screeningQuestion[0]['passage'] + '<br><br>' + screeningQuestion[0]['questionPrompt'])
+                addTextToQualtricsFile(sys.argv[2], '\n')
+                addTextToQualtricsFile(sys.argv[2], '[[Choices]]')
+                addTextToQualtricsFile(sys.argv[2], '\n')
+                for option in screeningQuestion[0]['answerOptions']:
+                    addTextToQualtricsFile(sys.argv[2], option)
+                    addTextToQualtricsFile(sys.argv[2], '\n')
+                addTextToQualtricsFile(sys.argv[2], '\n\n')
+                addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
+
             addTextToQualtricsFile(sys.argv[2],'[[Block]]\n\n') #Each pair will be within a block
         createQuestionForQualtricsFile(sys.argv[2],storyObj)
         addTextToQualtricsFile(sys.argv[2],'[[PageBreak]]\n\n')
