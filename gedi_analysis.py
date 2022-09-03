@@ -7,7 +7,6 @@ import json
 
 df = pd.read_csv("gedi_data.csv")
 df = df.drop(labels=[0,1], axis=0)
-print(df['QID8'])
 
 with open("scratch1.txt",'w') as f:
 	for column in df.columns:
@@ -49,7 +48,7 @@ for col in df.columns:
 		filtered_df.append(col)
 		col_labels.append(labels[cnt // 10])  # Questions appear in group of 10 on survey
 		cnt += 1
-assert len(filtered_df) == 110
+assert len(filtered_df) == 110  # 11 labels, 10 samples each
 
 data = {label:
 			[]
@@ -59,6 +58,8 @@ num_to_label = {
 	'alignment': {1: 'good', 2: 'neutral', 3: 'evil'},
 	'topic': {(ind+1): topic for ind, topic in enumerate(topics)}
 }
+
+print(num_to_label)
 
 for qualtrics_col, label in zip(filtered_df, col_labels):
 	for entry in df[qualtrics_col]:
@@ -73,7 +74,7 @@ for qualtrics_col, label in zip(filtered_df, col_labels):
 				raise NotImplemented
 			data[label].append(topic_entry)
 
-print(json.dumps(data, indent=4, sort_keys=True))
+#print(json.dumps(data, indent=4, sort_keys=True))
 
 results = {label:
 				0.0
@@ -90,3 +91,5 @@ for label in data:
 	results[label] = acc
 
 print(json.dumps(results, indent=4, sort_keys=True))
+with open('gedi_results.csv', 'w') as f:
+	json.dump(results, f)
