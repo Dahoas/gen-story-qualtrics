@@ -26,7 +26,7 @@ carp_results['gedi'] = gedi_results
 results = carp_results
 
 # set width of bar
-barWidth = 0.25
+barWidth = 0.2
 fig = plt.subplots(figsize =(12, 8))
 
 # set height of bar
@@ -58,13 +58,13 @@ br4 = [x + barWidth for x in br3]
 
 
 # Make the plot
-plt.bar(br1, ALIGNMENT_NEOX, color ='#000000', width = barWidth,
+plt.bar(br2, ALIGNMENT_NEOX, color ='#000000', width = barWidth,
         edgecolor ='grey', label ='NeoX')
-plt.bar(br2, ALIGNMENT_CARP, color ='#208ce1', width = barWidth,
+plt.bar(br3, ALIGNMENT_CARP, color ='#208ce1', width = barWidth,
         edgecolor ='grey', label ='Default CARP LM')
-plt.bar(br3, ALIGNMENT_COOP, color ='#d25237', width = barWidth,
+plt.bar(br4, ALIGNMENT_COOP, color ='#d25237', width = barWidth,
         edgecolor ='grey', label ='Alignment CARP LM')
-plt.bar(br4, ALIGNMENT_GEDI, color ='#71c56c', width = barWidth,
+plt.bar(br1, ALIGNMENT_GEDI, color ='#71c56c', width = barWidth,
         edgecolor ='grey', label ='Alignment GEDI')
 
 
@@ -74,7 +74,7 @@ plt.ylabel('Selected Human Preference (%)', fontweight ='bold', fontsize = 15)
 plt.xticks([r + barWidth for r in range(len(ALIGNMENT_CARP))],
         alignments)
 
-order = [1,2,0,3]
+order = [3,1,2,0]
 legend_names = ['Default CARP LM', ]
 plt.legend()
 plt.show()
@@ -90,15 +90,16 @@ br3 = [x + barWidth for x in br2]
 br4 = [x + barWidth for x in br3]
 
 # Make the plot
-plt.bar(br1, TOPIC_NEOX, color ='#000000', width = barWidth,
+plt.bar(br1, TOPIC_GEDI, color ='#71c56c', width = barWidth,
+        edgecolor ='grey', label ='Topic GEDI')
+plt.bar(br2, TOPIC_NEOX, color ='#000000', width = barWidth,
         edgecolor ='grey', label ='NeoX')
-plt.bar(br2, TOPIC_CARP, color ='#208ce1', width = barWidth,
+plt.bar(br3, TOPIC_CARP, color ='#208ce1', width = barWidth,
         edgecolor ='grey', label ='Default CARP LM')
 
-plt.bar(br3, TOPIC_COOP, color ='#d25237', width = barWidth,
+plt.bar(br4, TOPIC_COOP, color ='#d25237', width = barWidth,
         edgecolor ='grey', label ='Pseudo CARP LM')
-plt.bar(br3, ALIGNMENT_GEDI, color ='#71c56c', width = barWidth,
-        edgecolor ='grey', label ='Alignment GEDI')
+
 
 
 # Adding Xticks

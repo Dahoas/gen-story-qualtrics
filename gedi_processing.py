@@ -60,21 +60,31 @@ num_to_label = {
 }
 
 print(num_to_label)
-
+agreements = {label: [] for label in data}
 for qualtrics_col, label in zip(filtered_df, col_labels):
-	for entry in df[qualtrics_col]:
-		if not np.isnan(float(entry)):
-			entry = int(entry)
-			if label in topics:
-				topic_entry = num_to_label['topic'][entry]
-			elif label in alignments:
-				topic_entry = num_to_label['alignment'][entry]
-			else:
-				print(label)
-				raise NotImplemented
-			data[label].append(topic_entry)
+	entries = [int(entry) for entry in df[qualtrics_col] if not np.isnan(float(entry))]
+	if len(entries) > 0:
+		mode = max(set(entries), key = entries.count)
+		mode_count = entries.count(mode)
+		agreement = mode_count / len(entries)
+		agreements[label].append(agreement)
+		for entry in entries:
+			if not np.isnan(float(entry)):
+				entry = int(entry)
+				if label in topics:
+					topic_entry = num_to_label['topic'][entry]
+				elif label in alignments:
+					topic_entry = num_to_label['alignment'][entry]
+				else:
+					print(label)
+					raise NotImplemented
+				data[label].append(topic_entry)
 
 #print(json.dumps(data, indent=4, sort_keys=True))
+with open('processed_gedi_data.csv', 'w') as f:
+	json.dump(data, f)
+with open('gedi_agreements.json', 'w') as f:
+	json.dump(agreements, f)
 
 results = {label:
 				0.0
